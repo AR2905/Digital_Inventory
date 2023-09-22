@@ -1,6 +1,6 @@
 # Digital_Inventory
 
-CPC Inventory Management System
+##CPC Inventory Management System
 Welcome to the CPC Inventory Management System, an efficient solution built with PHP and MySQL for easy product management and inventory tracking. This README offers an overview of its key features, installation instructions, and more.
 
 Features
